@@ -1,51 +1,25 @@
-<h2 align="left">About Me</h2>
+## João Vitor Vieira Santos
 
-###
+**Desenvolvedor full-stack** · Aracaju, SE
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas, focado em Python e com experiência em Java e JavaScript. Com Trajetória em análise de sistemas e atendimento ao cliente, estou em busca de oportunidades como estagiário ou desenvolvedor júnior para aplicar meu conhecimento em tecnologia e agregar valor com soluções eficientes e funcionais.</p>
+Construo sistemas web e automações com IA para clientes reais. Sou fundador da Disc.AI e trabalho com React, Next.js, TypeScript, Python e PostgreSQL. Cursando Análise e Desenvolvimento de Sistemas (conclusão em dez/2026).
 
-###
+### Stack
 
-<h2 align="left">Techs</h2>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,py,fastapi,postgres,prisma,docker,git,aws" alt="stack" />
+</p>
 
-###
+### Projetos
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+- **Sistema de orçamento sob medida** para uma loja de iluminação (código privado): Next.js, React, TypeScript, Prisma, PostgreSQL e NextAuth, com controle de acesso por papel e montagem de orçamento sem popup.
+- **CRM-Discal** (código privado): CRM B2B multi-tenant com FastAPI e PostgreSQL, isolamento de dados por workspace (Row-Level Security) e captação automática de leads via API externa.
+- **[Adapta Aí](https://github.com/Jotavsts/vagas-automaticas):** adapta currículos a vagas usando a Claude API. Node.js/Express, React e PostgreSQL.
 
-###
+### Trabalho com IA
 
-<p align="left">° NTT DATA - Engenharia de Dados com Python, Power BI, MySQL(Em andamento)<br>° The Complete JavaScript Course 2024: From Zero to Expert(Em andamento)<br>° Figma<br>° HTML E CSS</p>
+Integro a Claude API a CRMs e sistemas web e uso o Claude Code no dia a dia, com subagentes, skills e especificação técnica guiando cada projeto.
 
-###
+### Contato
 
-<h3 align="left">Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jotavsts&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jotavsts/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+[LinkedIn](https://www.linkedin.com/in/jotavsts)
